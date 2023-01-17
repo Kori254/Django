@@ -1,0 +1,17 @@
+#logo{
+        
+}
+body{
+        background-color: #ebeff5;
+
+    }
+#total-orders{
+    background-color: #4cbc;
+    
+}
+#orders-delivered{
+    background-color: blue;
+}
+#orders-pending{
+    background-color: blueviolet;
+}
